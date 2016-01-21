@@ -14,7 +14,8 @@
 		<li>Include your file in this page's 'container' &lt;div&gt; by using php's include() command.</li>
 	</ul>
 	<div class="container">
-		<?php include('example.php'); ?>
+		<?php include('ninjas/example.php'); ?>
+		<?php include('ninjas/charlie.php'); ?>
 	</div>
 </body>
 </html>
