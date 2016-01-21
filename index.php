@@ -18,6 +18,7 @@
 	<h1>Meet your fellow PHP ninjas:</h1>
 	<div class="container">
 		<?php include('ninjas/charlie_mead.php'); ?>
+		<?php include('ninjas/todd_enders.php'); ?>
 	</div>
 </body>
 
