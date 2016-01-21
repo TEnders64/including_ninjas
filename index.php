@@ -13,6 +13,19 @@
 		<li>Feel free to style your content by using &lt;style&gt; tags </li>
 		<li>Include your file in this page's 'container' &lt;div&gt; by using php's include() command.</li>
 	</ul>
+
+	<ol>
+		<li>Fork steps</li>
+		<li>Navigate to the <a href="https://github.com/meadch/including_ninjas">Github repository</a></li>
+		<li>Click 'fork' in the top right corner and select your account</li>
+		<li>Clone the repository to your desktop</li>
+		<li>Open the directory in your text editor</li>
+	</ol>
+
+	<h3>When you're ready to commit:</h3>
+	<ol>
+		<li></li>
+	</ol>
 	<div class="container">
 		<?php include('example.php'); ?>
 	</div>
